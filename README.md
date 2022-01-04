@@ -7,6 +7,10 @@
 
 ## Object Dectection
 
+#### Panoptic perception
+
+2. Wu D, Liao M, Zhang W, et al. Yolop: You only look once for panoptic driving perception[J]. arXiv, 2021. [[paper]](https://arxiv.org/pdf/2108.11250.pdf)
+
 #### 2D
 
 #### 3D
