@@ -19,6 +19,7 @@ CARLA
 
 #### 3D
 
+3. Liu, Zechen, Zizhang Wu, and Roland Tóth. "Smoke: Single-stage monocular 3d object detection via keypoint estimation." CVPR, 2020. [[paper]](https://arxiv.org/abs/2002.10111)
 
 ## Semantic Segmentation
 
@@ -32,6 +33,6 @@ CARLA
 
 #### Multiple Modal
 
-3. Prakash A, Chitta K, Geiger A. Multi-Modal Fusion Transformer for End-to-End Autonomous Driving[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.09224.pdf)
+4. Prakash A, Chitta K, Geiger A. Multi-Modal Fusion Transformer for End-to-End Autonomous Driving[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.09224.pdf)
 
 ## Sensorimotor Control
