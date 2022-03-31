@@ -1,5 +1,6 @@
 # Paper Lists of Autonomous-Vehicles-Articles
 - [Simulator](#Simulator)
+- [Dataset](#Dataset)
 - [Survey](#Survey)
 - [Object Dectection](#Object-Dectection)
   - [Panoptic perception](#Panoptic-perception)
@@ -21,6 +22,10 @@
 ## Simulator
 
 CARLA
+
+## Dataset
+
+- Sun P, Kretzschmar H, Dotiwalla X, et al. Scalability in perception for autonomous driving: Waymo open dataset[C]. Proceedings of the IEEE/CVF conference on computer vision and pattern recognition. 2020: 2446-2454.
 
 ## Survey
 
