@@ -15,6 +15,8 @@
 
 - [Sensorimotor Control](#Sensorimotor-Control)
 
+- [Multi-Sensor Fusion](#Multi-Sensor-Fusion)
+
 
 ## Simulator
 
@@ -54,3 +56,5 @@ CARLA
 - Prakash A, Chitta K, Geiger A. Multi-Modal Fusion Transformer for End-to-End Autonomous Driving[C]. CVPR 2021. [[paper]](https://arxiv.org/abs/2104.09224.pdf)
 
 ## Sensorimotor Control
+
+## #Multi-Sensor Fusion
