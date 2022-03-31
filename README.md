@@ -33,6 +33,8 @@ CARLA
 
 #### 2D
 
+- Yang J, Liu S, Li Z, et al. Real-time Object Detection for Streaming Perception[J]. arXiv preprint arXiv:2203.12338, 2022.
+
 #### 3D
 
 - Liu, Zechen, Zizhang Wu, and Roland Tóth. Smoke: Single-stage monocular 3d object detection via keypoint estimation. CVPR, 2020. [[paper]](https://arxiv.org/abs/2002.10111)
