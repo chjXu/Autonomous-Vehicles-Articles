@@ -57,4 +57,4 @@ CARLA
 
 ## Sensorimotor Control
 
-## #Multi-Sensor Fusion
+## Multi-Sensor Fusion
